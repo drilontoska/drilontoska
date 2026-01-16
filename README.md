@@ -1,7 +1,7 @@
 # Hello, I'm Drilon Toska
 <a href="https://www.linkedin.com/in/drilon-toska-5397b9225/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an up-and-coming cybersecurity professional with a strong academic background in computer science and cybersecurity, holding both a Bachelor’s and Master’s degree from Fairleigh Dickinson University. I enjoy working hands-on with security tools, analyzing vulnerabilities, and continuously expanding my technical skill set. This portfolio highlights my learning journey and applied cybersecurity projects.
+I am an up-and-coming cybersecurity professional with a strong academic background in computer science and cybersecurity, holding a Bachelor’s and soon to be Master’s degree from Fairleigh Dickinson University. I enjoy working hands-on with security tools, analyzing vulnerabilities, and continuously expanding my technical skill set. This portfolio highlights my learning journey and applied cybersecurity projects.
 
 ## About Me
 
